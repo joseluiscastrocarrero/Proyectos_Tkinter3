@@ -23,3 +23,7 @@
 ## RECTANGULO
 ### Este es un rectangulo una figura que tiene 2 lados iguales y 2 lados anchos 
 ![rectangulo](rectangulo.png "rectangulo")
+
+## TEXT
+### cuando acercamos el mouse al texto este automaticamente cambia de color a rojo para haci detecta un color diferente al texto
+![text](text.png "text")
